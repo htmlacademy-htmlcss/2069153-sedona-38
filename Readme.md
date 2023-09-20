@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
-* Студент: [Екатерина Яковлева](https://up.htmlacademy.ru/htmlcss/38/user/2069153).
-* Наставник: `Неизвестно`.
+- Студент: [Екатерина Яковлева](https://up.htmlacademy.ru/htmlcss/38/user/2069153).
+- Наставник: [Иван Жарков](https://htmlacademy.ru/profile/id191422).
 
 ---
 
